@@ -29,11 +29,14 @@ class Prime_number {
 }
 class MainPrimeNumber{
     public static void main(String[] args){
+        System.out.println("Hello World");
         Scanner input = new Scanner(System.in);
         Prime_number P = new Prime_number(input.nextInt());
         System.out.println("The program finish.");
         System.out.println("Master branch 1");
         System.out.println("Master branch 2");
+        System.out.println("Sopha branch 1");
+        System.out.println("Sopha branch 2");
 
 
 
