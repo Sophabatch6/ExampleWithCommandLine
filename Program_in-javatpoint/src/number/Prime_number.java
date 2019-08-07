@@ -32,6 +32,8 @@ class MainPrimeNumber{
         Scanner input = new Scanner(System.in);
         Prime_number P = new Prime_number(input.nextInt());
         System.out.println("The program finish.");
+        System.out.println("Master branch 1");
+        System.out.println("Master branch 2");
 
 
 
