@@ -31,6 +31,7 @@ class MainPrimeNumber{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         Prime_number P = new Prime_number(input.nextInt());
+        System.out.println("The program finish.");
 
 
 
