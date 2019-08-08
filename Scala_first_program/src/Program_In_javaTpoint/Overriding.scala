@@ -14,6 +14,5 @@ object mainObject{
   def main(args: Array[String]): Unit = {
     var b = new Bike()
     b.run()
-    println("The end")
   }
 }
