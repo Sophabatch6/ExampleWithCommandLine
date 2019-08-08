@@ -10,7 +10,7 @@ class Overloading {
     println(sum)
   }
 }
-object MainObject{
+object MainOveridding{
   def main(args: Array[String]): Unit = {
     var a  = new Overloading();
     a.add(12,23)
